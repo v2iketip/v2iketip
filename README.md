@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @v2iketip
-- 👀 I’m interested in ...
+# 👋 Hi, I’m @v2iketip
 
-<!---
-v2iketip/v2iketip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 I’m interested in:
+- 🎮 FiveM
+- 💻 Programming
+- 🛠️ Server Development
+
+## 🚀 I'm currently working on:
+- Running and managing my FiveM server **Broken LS**
+
+## 🌍 You can find me here:
+- 💬 Discord: [swd70]
+
